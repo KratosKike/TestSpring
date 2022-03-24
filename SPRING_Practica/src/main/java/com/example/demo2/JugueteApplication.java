@@ -10,4 +10,4 @@ public class JugueteApplication {
 		SpringApplication.run(JugueteApplication.class, args);
 	}
 
-}
+}//
