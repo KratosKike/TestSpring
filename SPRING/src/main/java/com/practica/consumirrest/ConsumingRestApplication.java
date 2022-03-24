@@ -31,4 +31,4 @@ public class ConsumingRestApplication {
 			log.info(quote.toString());
 		};
 	}
-}
+}//
